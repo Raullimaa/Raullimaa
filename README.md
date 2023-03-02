@@ -1,5 +1,8 @@
  
-## Olá, sou o Raul Lima, um entusiasta por aprendizado contínuo e desafios inspiradores, sempre em busca de novas oportunidades para expandir meu conhecimento e habilidades.
+## Olá, sou o Raul Lima.
+
+## Um entusiasta por aprendizado contínuo e desafios inspiradores, sempre em busca de novas oportunidades para expandir meu conhecimento e habilidades.
+
 <div align="center">
     <a href="https://github.com/github.com/Raullimaa">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raullimaa&layout=compact&langs_count=7&theme=dracula"/>
