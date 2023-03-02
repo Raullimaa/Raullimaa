@@ -1,5 +1,5 @@
  
-## Olá, sou o Raul Lima.
+## Olá, me chamo Raul Cordeiro Lima.
 
 ## Um entusiasta por aprendizado contínuo e desafios inspiradores, sempre em busca de novas oportunidades para expandir meu conhecimento e habilidades.
 
