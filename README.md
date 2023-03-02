@@ -17,7 +17,5 @@
      <img align="center" alt="Raul-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
      <img align="center" alt="Raul-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  </div>
-  
-<div align="center">
-     <img alt="loading-dev" src="img/dev-loading.png" />
-  </div>
+ ##
+ <a href="https:www.linkedin.com/in/raullima-devfront/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
