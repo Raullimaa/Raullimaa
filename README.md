@@ -1,15 +1,8 @@
  
-## Olá, me chamo Raul Cordeiro Lima.
+## Olá, seja bem-vindo...
+<img allign= "center" src= "Banner.png" alt= "banner nome">
 
-## Um entusiasta por aprendizado contínuo e desafios inspiradores, sempre em busca de novas oportunidades para expandir meu conhecimento e habilidades.
-
-<div align="center">
-     <a href="https://github.com/github.com/Raullimaa">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raullimaa&layout=compact&langs_count=7&theme=dracula"/>
-     </a>
-</div>
-        
- ## 
+##
   
 <div align="center" style="display: inline_block"><br>
      <img align="center" alt="Raul-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,8 +12,16 @@
      <img align="center" alt="Raul-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  </div>
  
- ##
- 
+ ## 
+
+<div align="center">
+     <a href="https://github.com/github.com/Raullimaa">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raullimaa&layout=compact&langs_count=7&theme=dracula"/>
+     </a>
+</div>
+
+ ##   
+
  <div align="center">
      <a href="https://www.linkedin.com/in/raullima-devfront" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
