@@ -29,7 +29,7 @@
      <a href = "mailto:raulima.e@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
      </a>
-     <a href = "https://api.whatsapp.com/send?phone=5561981332651&text=Ol%C3%A1%20Raul,%20fiquei%20bastante%20interessado%20em%20conhecer%20mais%20sobre%20seu%20trabalho.%20Seria%20poss%C3%ADvel%20agendarmos%20uma%20conversa%20para%20conhec%C3%AA-lo%20melhor?" target="_blank">
+     <a href = "https://api.whatsapp.com/send?phone=5561981332651&text=Ol%C3%A1%20Raul,%20fiquei%20bastante%20interessado%20em%20conhecer%20mais%20sobre%20seu%20trabalho.%20Seria%20poss%C3%ADvel%20agendarmos%20uma%20conversa%20para%20conhec%C3%AA-lo%20melhor?](https://wa.me/5547991378317?text=Ol%C3%A1%20Raul,%0APassei%20pelo%20seu%20portf%C3%B3lio%20recentemente%20e%20fiquei%20bastante%20interessado%20em%20conhecer%20mais%20sobre%20seu%20trabalho.%0AQue%20tal%20marcarmos%20uma%20conversa?)https://wa.me/5547991378317?text=Ol%C3%A1%20Raul,%0APassei%20pelo%20seu%20portf%C3%B3lio%20recentemente%20e%20fiquei%20bastante%20interessado%20em%20conhecer%20mais%20sobre%20seu%20trabalho.%0AQue%20tal%20marcarmos%20uma%20conversa?" target="_blank">
         <img src="https://img.shields.io/badge/Whatsapp-1ED760?&style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
      </a>
  </div>
